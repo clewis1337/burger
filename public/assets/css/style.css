@@ -1,0 +1,44 @@
+h1, h2 {
+  font-size: 24px;
+  justify-content: center;
+}
+
+h2{
+  text-decoration: underline;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.background{
+  background: rgb(255, 204, 102);
+  margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.devoured, .not-devoured {
+  flex: 1;
+  display: block;
+  margin: 5px;
+}
+
+.container{
+  display: flex;
+}
